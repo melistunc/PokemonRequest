@@ -1,1 +1,1 @@
-![https://raw.githubusercontent.com/melistunc/PokemonRequest/refs/heads/main/pokemon.png)
+![Pokemon](https://raw.githubusercontent.com/melistunc/PokemonRequest/refs/heads/main/pokemon.png)
